@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "valarray": "cpp",
+        "*.tcc": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "optional": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "ostream": "cpp"
+    }
+}
