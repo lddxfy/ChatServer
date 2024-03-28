@@ -10,6 +10,7 @@
 #include "friendmodel.hpp"
 #include "groupmodel.hpp"
 #include "redis.hpp"
+#include "connectionpool.hpp"
 #include <mutex>
 using json = nlohmann::json;
 using namespace muduo::net;
@@ -43,6 +44,7 @@ private:
     FriendModel friendmodel;
     GroupModel groupmodel;
     Redis _redis;
+    ConnectionPool* connpool;
 };
 
 #endif

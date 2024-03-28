@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/cjqyyds/Documents/chat/src/server/chatserver.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/cjqyyds/Documents/chat/src/server/chatservice.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/cjqyyds/Documents/chat/src/server/main.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/mysqldb/connectionpool.cpp.o -c /home/cjqyyds/Documents/chat/src/server/mysqldb/connectionpool.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/mysqldb/connectionpool.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/mysqldb/mysqldb.cpp.o -c /home/cjqyyds/Documents/chat/src/server/mysqldb/mysqldb.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/mysqldb/mysqldb.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/cjqyyds/Documents/chat/src/server/model/friendmodel.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/cjqyyds/Documents/chat/src/server/model/groupmodel.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/cjqyyds/Documents/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/cjqyyds/Documents/chat/src/server/model/usermodel.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/cjqyyds/Documents/chat/src/server/redis/redis.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/cjqyyds/Documents/chat/build/src/client",
+  "command": "/usr/bin/g++   -I/home/cjqyyds/Documents/chat/include -I/home/cjqyyds/Documents/chat/include/server -I/home/cjqyyds/Documents/chat/include/server/mysqldb -I/home/cjqyyds/Documents/chat/include/server/model -I/home/cjqyyds/Documents/chat/include/server/redis -I/home/cjqyyds/Documents/chat/thirdku  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/cjqyyds/Documents/chat/src/client/main.cpp",
+  "file": "/home/cjqyyds/Documents/chat/src/client/main.cpp"
+}
+]
