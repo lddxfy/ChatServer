@@ -1,14 +1,14 @@
 # ChatServer
 使用c++开发的基于muduo网络库，Nginx tcp负载均衡实现的集群聊天服务器和客户端
 ## 项目所涉及的技术栈
-Json序列化和反序列化
-muduo网络库开发
-nginx的tcp负载均衡器配置
-redis缓存服务器编程
-基于发布-订阅的服务器中间件redis消息队列编程
-MySQL数据库编程
-数据库连接池
-CMake构建编译环境
+### Json序列化和反序列化
+### muduo网络库开发
+### nginx的tcp负载均衡器配置
+### redis缓存服务器编程
+### 基于发布-订阅的服务器中间件redis消息队列编程
+### MySQL数据库编程
+### 数据库连接池
+### CMake构建编译环境
 ## 模块信息
 ### 服务端：
 src/server/model:存放各个表的model的实现方法
